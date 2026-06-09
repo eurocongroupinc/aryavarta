@@ -7,7 +7,9 @@ Static multi-page website for Aryavarta Industrial Resources Private Limited.
 - `index.html` - Home page with hero, company overview, highlights, and service preview.
 - `about.html` - Company bio, mission, vision, sectors, leadership, and milestones.
 - `services.html` - Detailed service catalogue.
+- `industries.html` - Sector-specific content for metals, cement, mining, manufacturing, infrastructure, and circular economy customers.
 - `network.html` - Headquarters, branch offices, warehousing, and network content.
+- `sustainability.html` - Zero-waste practices, e-waste recovery, ISO roadmap, and responsible supply-chain content.
 - `compliance.html` - Company identity, registrations, capital, financial snapshot, and certifications.
 - `contact.html` - Contact form, HQ details, and branch directory.
 - `employee-login.html` - Static employee login page and dashboard preview.
