@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="96" viewBox="0 0 380 96" role="img" aria-labelledby="title desc">
+  <title id="title">Aryavarta Industrial Resources Private Limited logo</title>
+  <desc id="desc">A refined AIR monogram with a structured corporate wordmark.</desc>
+  <defs>
+    <linearGradient id="markFill" x1="6" y1="8" x2="78" y2="88" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0D4D31"/>
+      <stop offset="0.62" stop-color="#176B44"/>
+      <stop offset="1" stop-color="#157B8A"/>
+    </linearGradient>
+  </defs>
+  <rect width="380" height="96" fill="none"/>
+  <g transform="translate(8 8)">
+    <rect x="0" y="0" width="80" height="80" rx="8" fill="#10201D"/>
+    <path d="M10 59 38 13h8l24 46H58l-5-10H30l-6 10H10Zm25-20h13l-6-13-7 13Z" fill="url(#markFill)"/>
+    <path d="M19 64h42v5H19z" fill="#D89717"/>
+    <path d="M63 18h6v30h-6zM52 18h6v20h-6z" fill="#FFFFFF" opacity="0.9"/>
+  </g>
+  <g transform="translate(104 21)">
+    <text x="0" y="24" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="800" fill="#10201D">Aryavarta</text>
+    <text x="0" y="50" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="800" fill="#176B44">Industrial Resources</text>
+    <path d="M0 61h188" stroke="#D89717" stroke-width="3"/>
+    <text x="0" y="77" font-family="Arial, Helvetica, sans-serif" font-size="9.5" font-weight="800" fill="#5A6763">PRIVATE LIMITED | KOCHI, KERALA</text>
+  </g>
+</svg>
